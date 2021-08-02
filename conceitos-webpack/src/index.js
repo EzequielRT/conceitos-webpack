@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import './css/style.css';
+import './css/teste.scss';
 import Botao from './components/botao/index';
 
 $(function(){
